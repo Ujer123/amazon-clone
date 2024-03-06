@@ -161,8 +161,8 @@ body{
 
 @media only screen and (max-width: 767px) {
     .custom-box {
-        width: 100px; /* Set your desired width */
-        height: 130px; /* Set your desired height */
+        /* width: 100px; 
+        height: 130px;  */
         background-color: white;
         border: 1px solid #000000;
         margin: 10px;
@@ -170,17 +170,17 @@ body{
       }
 
       .custom-box1{
-        width: 100px; /* Set your desired width */
-        height: 130px; /* Set your desired height */
+        /* width: 100px; 
+        height: 130px;  */
         background-color: white;
         border: 1px solid #000000;
         padding: 10px;
       }
 
-      .product-img{
+      /* .product-img{
         height: 40px;
         width: 40px;
-      }
+      } */
 
       p{
         font-size: 10px;
@@ -209,18 +209,17 @@ body{
         width: 350px;
       }
 
-      .card-product{
+      /* .card-product{
         height: 20px;
-      }
+      } */
 
-      .card-topic{
+      /* .card-topic{
         font-size: 8px;
-        
-      }
+      } */
     
       .card-img1{
-        height: 40px;
-        width: 70px;
+        height: 70%;
+        width: 100%;
       }
 
 
@@ -251,19 +250,12 @@ body{
     padding-top: 10px;
   }
 
-  .custom-box{
 
-    width: 200px;
-    height: 250px;
-  }
-
-  .card-img1{
+  /* .card-img1{
     height: 160px;
-  }
+  } */
 
-  .custom-box1{
-    width: 210px;
-  }
+  
 
   .Product-card{
     margin-top: -150px;
