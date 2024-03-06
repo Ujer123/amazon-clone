@@ -236,7 +236,7 @@ body{
       }
 }
 
-@media only screen and (min-width: 767px) {
+@media only screen and (min-width: 767px) and (max-width: 992px) {
  
   #FooterContainer6 .col-md-2{
     width: 180px;
@@ -251,9 +251,10 @@ body{
   }
 
 
-  /* .card-img1{
-    height: 160px;
-  } */
+  .card-img1{
+    width: 100px;
+    height: 100px;
+  }
 
   
 
